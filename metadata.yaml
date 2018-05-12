@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7267'
     url: http://www.gutenberg.org/2009/agents/7267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17742#Navajo-weaversGovernment-Printing-Office-Washington-1884-pages-371-392.
 gutenberg_bookshelf:
 - Native America
 - Anthropology
